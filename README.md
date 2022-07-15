@@ -4,5 +4,6 @@ Garatutako programek laborategian neurketak egiteko sentsore eta ordenagailu bat
 <br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/101325625/163989600-c80dacea-bd52-4801-b822-47c809a6ee69.png " width="300" >
+  <img src="https://user-images.githubusercontent.com/101325625/179214380-85323746-7c77-4b72-a38b-efea18ceda0d.png" width="300" >
 </p>
+
