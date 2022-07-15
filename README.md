@@ -7,3 +7,4 @@ Garatutako programek laborategian neurketak egiteko sentsore eta ordenagailu bat
   <img src="https://user-images.githubusercontent.com/101325625/179214380-85323746-7c77-4b72-a38b-efea18ceda0d.png" width="500" >
 </p>
 
+Fitxategi exekutagarria deskargatzeko: https://1drv.ms/u/s!AkKOfeltErldhdxdtES4alnsAf3ZZQ?e=gngf9j
